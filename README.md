@@ -9,7 +9,8 @@ Class |Topic | Resource
  2nd | Concept of Linear & Binary Search | [Linear & Binary Search Notebook](./1.searching_algo.ipynb) | 
  3rd  | Sorting (Bubble, Selection) | 1. [Bubble Sort](bubble_sort.ipynb) <end> 2.[Selection Sort](./selection_sort.ipynb) | 
  4th |  Sorting (Non-compariosn Based) | 1. [Bucket Sort](./Bucket-Sort-GeeksforGeeks%20Tutorial.pdf) <end> 2. [Radix Sort](./Radix-Sort-GeeksforGeeks%20Tutorial.pdf)
- 5th | Stack & Queue Concept With Examples | [Stack & Queue ](Stack&queues.ipynb)
+ 5th | Stack & Queue Concept With Examples | [Stack & Queue ](Stack&queues.ipynb) | 
+ 6th  | Priority Queue & Basic of Link List | 1. [priority Queue](./priority_queue.ipynb)  <end> 2. [List List Basics](./link_list_basics.ipynb) | 
  
 
   
