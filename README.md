@@ -13,8 +13,9 @@ Class |Topic | Resource
  5th | Stack & Queue Concept With Examples | [Stack & Queue ](Stack&queues.ipynb) | 
  6th  | Priority Queue & Basic of Link List | 1. [priority Queue](./priority_queue.ipynb)  <end> 2. [List List Basics](./link_list_basics.ipynb) | 
  7th  | Python Revision For DSA (Part1) | [Python Revision For DSA Notebook- Part 1](./python_revision_for_dsa_1.ipynb) | 
- 
- 
+ 8th | Link List Implementation (Traversing) | [Link List Implementation](./list_list_operations.ipynb) | 
+ 9th | Official Holiday | --- -- | 
+ 10th |  
  ****
  
 ## Assignments
