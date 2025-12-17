@@ -15,7 +15,8 @@ Class |Topic | Resource
  7th  | Python Revision For DSA (Part1) | [Python Revision For DSA Notebook- Part 1](./python_revision_for_dsa_1.ipynb) | 
  8th | Link List Implementation (Traversing) | [Link List Implementation](./list_list_operations.ipynb) | 
  9th | Official Holiday | --- -- | 
- 10th |  
+ 10th |  Link List Operation (adding,removing,searching) & Fucnction Call and Reucrssion | 1.[Link List Operations](./list_list_operations.ipynb) <end> 2. [Function Call & Recurssions](./FunctionCall_Recurssion.ipynb)
+
  ****
  
 ## Assignments
