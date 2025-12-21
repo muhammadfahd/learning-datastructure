@@ -15,12 +15,15 @@ Class |Topic | Resource
  7th  | Python Revision For DSA (Part1) | [Python Revision For DSA Notebook- Part 1](./python_revision_for_dsa_1.ipynb) | 
  8th | Link List Implementation (Traversing) | [Link List Implementation](./list_list_operations.ipynb) | 
  9th | Official Holiday | --- -- | 
- 10th |  Link List Operation (adding,removing,searching) & Fucnction Call and Reucrssion | 1.[Link List Operations](./list_list_operations.ipynb) <end> 2. [Function Call & Recurssions](./FunctionCall_Recurssion.ipynb)
+ 10th |  Link List Operation (adding,removing,searching) & Fucnction Call and Reucrssion | 1.[Link List Operations](./list_list_operations.ipynb) <end> 2. [Function Call & Recurssions](./FunctionCall_Recurssion.ipynb) | 
+ 11th | Insertion Sort | [Insertion Sort](./insertion_sort.ipynb) | 
+
 
  ****
  
 ## Assignments
 1. [Stack Implementation – Building a "Urgent" To-Do List](./Assignment%20todolist.pdf) - Stack implementation to build a to-do List and upload it on own github 
+2. [1. Function Call & Recurssion Concept , 2. Insertion Sort](./Assignment%20recurssion&sorting.pdf) - Implementing Sorting and function call concept 
 
 
 
